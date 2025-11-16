@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+python-jose[cryptography]
+pydantic
+pydantic[email]
+uvicorn
