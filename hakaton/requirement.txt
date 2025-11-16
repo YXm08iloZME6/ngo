@@ -4,3 +4,4 @@ python-jose[cryptography]
 pydantic
 pydantic[email]
 uvicorn
+httpx
