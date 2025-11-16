@@ -1,4 +1,4 @@
-1. git clone https://github.com/YXm08iloZME6/ngo
+1.  git clone https://github.com/YXm08iloZME6/ngo
 
 Заходим в папку 
 1. npm install --legacy-peer-deps
