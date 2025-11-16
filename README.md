@@ -8,4 +8,4 @@
 1. cd hackaton
 2. python3.12 -m venv .venv
 3. pip install -r requirements.txt
-4. uvicorn main:app --reload
+4. python3.12 -m uvicorn main:app --reload
